@@ -1,4 +1,3 @@
-import os
 import cv2 
 
 image_path = "./images/bird.jpg"
